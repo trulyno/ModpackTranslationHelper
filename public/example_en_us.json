@@ -1,0 +1,23 @@
+{
+  "item.minecraft.diamond_sword": "Diamond Sword",
+  "item.minecraft.iron_pickaxe": "Iron Pickaxe",
+  "item.minecraft.golden_apple": "§6Golden Apple§r",
+  "block.minecraft.diamond_ore": "Diamond Ore",
+  "block.minecraft.crafting_table": "Crafting Table",
+  "entity.minecraft.zombie": "§2Zombie§r",
+  "entity.minecraft.creeper": "§aCreeper§r",
+  "enchantment.minecraft.sharpness": "Sharpness",
+  "enchantment.minecraft.protection": "Protection",
+  "gui.done": "Done",
+  "gui.cancel": "Cancel",
+  "menu.multiplayer": "§lMultiplayer§r",
+  "menu.singleplayer": "§lSingleplayer§r",
+  "death.attack.mob": "%1$s was slain by %2$s",
+  "death.attack.player": "%1$s was slain by %2$s",
+  "advancement.story.root.title": "§eMinecraft§r",
+  "advancement.story.root.description": "The heart of the game",
+  "biome.minecraft.plains": "Plains",
+  "biome.minecraft.desert": "§6Desert§r",
+  "container.chest": "Chest",
+  "container.furnace": "Furnace"
+}
