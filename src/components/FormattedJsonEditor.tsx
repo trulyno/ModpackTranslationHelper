@@ -58,7 +58,8 @@ export const FormattedJsonEditor: React.FC<FormattedJsonEditorProps> = ({
         
         const [, prefix, content, suffix] = match;
         const formattedContent = applyMinecraftFormatting(content);
-        return escapeHtml(prefix) + formattedContent + escapeHtml('"' + suffix);
+        console.log([prefix, formattedContent, suffix])
+        return escapeHtml(prefix + '"') + formattedContent + escapeHtml('"' + suffix);
       });
       
       return formattedLines.join('\n');
